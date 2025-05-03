@@ -66,10 +66,14 @@ me.say_hi()
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 
+<hr>
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 
 |  <a href="https://github.com/SulemanMughal/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SulemanMughal&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- |
 
+<hr>
+
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
