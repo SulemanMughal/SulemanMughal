@@ -1,10 +1,3 @@
-<div align="right">
-  
-  [![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/suleman-shahid)](www.linkedin.com/in/suleman-shahid)
-</div>
-
-<hr>
-
 <p>
 I'm a passionate and versatile Full Stack Developer with a solid foundation in both front-end and back-end technologies. I have hands-on experience building dynamic, scalable, and secure web applications, specializing in crafting seamless digital experiences—from development to robust API integrations.
 
