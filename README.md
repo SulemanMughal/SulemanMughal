@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Suleman Mughal
+# 👋 Hello, I'm Suleman Shahid
 
 A passionate **Full-Stack Developer**, **AI/ML Enthusiast**, and **DevOps Engineer** with a flair for crafting innovative solutions across various domains. With a strong foundation in software development and a keen eye for detail, I specialize in building scalable, efficient, and user-centric applications.
 
