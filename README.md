@@ -1,16 +1,16 @@
 # 👋 Hello, I'm Suleman Shahid
 
-A passionate **Full-Stack Developer**, **AI/ML Enthusiast**, and **DevOps Engineer** with a flair for crafting innovative solutions across various domains. With a strong foundation in software development and a keen eye for detail, I specialize in building scalable, efficient, and user-centric applications.
+A passionate **Full-Stack Developer**, **AI/ML Enthusiast**, and **DevOps & Cyber Security Engineer** with a flair for crafting innovative solutions across various domains. With a strong foundation in software development and a keen eye for detail, I specialize in building scalable, efficient, and user-centric applications.
 
 ---
 
 ## 🧠 About Me
 
-* 🎓 **Education**: Bachelor's in Computer Science
+* 🎓 **Education**: Master's in Cyber Security
 * 🌍 **Location**: Lahore, Pakistan
 * 💼 **Experience**: Over 5 years in software development, working on diverse projects ranging from web applications to AI-driven platforms.
 * 💬 **Languages**: Fluent in English and Urdu
-* 🎯 **Interests**: AI/ML, Web Development, DevOps, Open Source Contributions
+* 🎯 **Interests**: AI/ML, Web Development, DevOps, Cyber Security, Open Source Contributions
 
 ---
 
@@ -83,7 +83,6 @@ A passionate **Full-Stack Developer**, **AI/ML Enthusiast**, and **DevOps Engine
 
 * 🧩 **40+ Repositories** covering AI, Web, Blockchain, and DevOps
 * 🌐 **Multi-language Expertise**: Python, JavaScript, Go, C, Bash
-* 🧠 **AI Projects** integrating ML models with Web & Blockchain
 * 🧰 **DevOps Ready**: CI/CD pipelines, containerization, monitoring
 * 📡 **API Development**: REST, GraphQL, Webhooks, and 3rd-Party APIs
 
@@ -129,6 +128,7 @@ I'm always eager to collaborate on exciting projects, especially those involving
 * AI & Machine Learning
 * Full-Stack Web Development
 * DevOps & Cloud Infrastructure
+* Cyber Security Pentesting
 * Open Source Contributions
 
 Feel free to reach out if you have an opportunity or idea you'd like to discuss!
