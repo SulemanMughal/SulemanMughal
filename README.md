@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Suleman Shahid
 
-A passionate **Full-Stack Developer**, **AI/ML Enthusiast**, and **DevOps & Cyber Security Engineer** with a flair for crafting innovative solutions across various domains. With a strong foundation in software development and a keen eye for detail, I specialize in building scalable, efficient, and user-centric applications.
+A passionate **Full-Stack Developer** and **Cyber Security Engineer** with a flair for crafting innovative solutions across various domains. With a strong foundation in software development and a keen eye for detail, I specialize in building scalable, efficient, and user-centric applications.
 
 ---
 
@@ -10,7 +10,7 @@ A passionate **Full-Stack Developer**, **AI/ML Enthusiast**, and **DevOps & Cybe
 * 🌍 **Location**: Lahore, Pakistan
 * 💼 **Experience**: Over 5 years in software development, working on diverse projects ranging from web applications to AI-driven platforms.
 * 💬 **Languages**: Fluent in English and Urdu
-* 🎯 **Interests**: AI/ML, Web Development, DevOps, Cyber Security, Open Source Contributions
+* 🎯 **Interests**: Web Development, Cyber Security, Open Source Contributions
 
 ---
 
@@ -18,7 +18,7 @@ A passionate **Full-Stack Developer**, **AI/ML Enthusiast**, and **DevOps & Cybe
 
 ### 🚀 Tech Stack Coverage
 
-![Technologies Badge](https://skillicons.dev/icons?i=react,nextjs,nodejs,django,python,flask,tailwind,postgres,mongodb,aws,docker,kubernetes,graphql,redis)
+![Technologies Badge](https://skillicons.dev/icons?i=react,nextjs,nodejs,django,python,flask,tailwind,postgres,mongodb,aws,docker,kubernetes,graphql,redis,terraform,kafka,celery,)
 
 ### 🖥️ Frontend Development
 
