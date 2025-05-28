@@ -74,7 +74,7 @@ A passionate **Full-Stack Developer** and **Cyber Security Engineer** with a fla
 
 ![oaicite:54](https://github-readme-stats.vercel.app/api/top-langs/?username=SulemanMughal\&layout=compact\&theme=radical)
 
-![oaicite:55](https://streak-stats.demolab.com/?user=SulemanMughal&theme=radical&hide_border=true)
+![oaicite:55](https://streak-stats.demolab.com?user=SulemanMughal&theme=radical&hide_border=true)
 
 ![oaicite:56](https://github-readme-activity-graph.vercel.app/graph?username=SulemanMughal&theme=github-compact)
 
