@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Suleman Shahid
 
-A passionate **Full-Stack Developer** and **Cyber Security Engineer** with a flair for crafting innovative solutions across various domains. With a strong foundation in software development and a keen eye for detail, I specialize in building scalable, efficient, and user-centric applications.
+Experienced Full Stack Developer with over 5 years of experience in designing, developing, and deploying scalable web applications. Strong background in back-end development using Django and Python, with proficiency in cloud platforms like AWS, Azure or any hosting platform. Skilled in building and maintaining CI/CD pipelines, containerized environments, and automating deployment processes. Proven ability to work within microservice architectures and optimize cloud infrastructure for performance, security, and reliability.
 
 ---
 
