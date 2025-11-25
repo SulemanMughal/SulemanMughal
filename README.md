@@ -1,12 +1,12 @@
-﻿# 👋 Suleman Shahid — Full‑Stack Engineer (Python, Django, Node.js)
+﻿# 👋 Suleman Shahid — Full‑Stack Engineer (Python, Django, React/Next.js, Node.js)
 
-Experienced full‑stack developer building web applications, APIs, and cloud infrastructure. I focus on end‑to‑end delivery: design, backend, deployment, and observability. Open to backend / full‑stack roles and opportunities that involve cloud, performance, or security.
+Experienced full‑stack developer building web applications, APIs, and cloud infrastructure. Primary expertise is in Python/Django, with extensive frontend experience using React and Next.js, and additional backend projects implemented with Node.js/Express. I focus on end‑to‑end delivery: design, backend, deployment, and observability. Open to backend / full‑stack roles and opportunities that involve cloud, performance, or security.
 
 ---
 
 ## TL;DR
 
-- Full‑stack engineer (Django/Python, Node.js, React) with CI/CD and cloud experience (AWS, Docker).
+- Full‑stack engineer (Django/Python — primary; React/Next.js; Node.js) with CI/CD and cloud experience (AWS, Docker).
 - Master's in Cyber Security — strong security and reliability mindset.
 - Open to: Senior Backend, Full‑Stack, SRE/Platform roles — remote, available across most time zones.
 
@@ -59,16 +59,6 @@ Experienced full‑stack developer building web applications, APIs, and cloud in
 
 ---
 
-## Repo Checklist (what I keep in showcased repos)
-
-- `README.md` with TL;DR, demo/GIF, and Quick Start (3 commands).  
-- `LICENSE` (usually MIT) and `CODE_OF_CONDUCT` / `CONTRIBUTING.md` for OSS.  
-- GitHub Actions for CI with a passing build badge.  
-- `Dockerfile` / `docker-compose.yml` or deploy instructions.  
-- Tests and a simple `npm test` / `pytest` command documented.
-
----
-
 ## GitHub Stats & Badges
 
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SulemanMughal&layout=compact&theme=radical)
@@ -81,6 +71,7 @@ Experienced full‑stack developer building web applications, APIs, and cloud in
 - LinkedIn: https://www.linkedin.com/in/suleman-shahid/  
 - Twitter: https://twitter.com/sulemanmughal39  
 - Email: [sulemanmughal155@gmail.com](mailto:sulemanmughal155@gmail.com)  
+ - Portfolio: https://www.sulemanshahid.me/
 
 
 
