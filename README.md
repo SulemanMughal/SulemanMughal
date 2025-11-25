@@ -1,143 +1,89 @@
-# 👋 Hello, I'm Suleman Shahid
+﻿# 👋 Suleman Shahid — Full‑Stack Engineer (Python, Django, Node.js)
 
-Experienced Full Stack Developer with over 5 years of experience in designing, developing, and deploying scalable web applications. Strong background in back-end development using Django and Python, with proficiency in cloud platforms like AWS, Azure or any hosting platform. Skilled in building and maintaining CI/CD pipelines, containerized environments, and automating deployment processes. Proven ability to work within microservice architectures and optimize cloud infrastructure for performance, security, and reliability.
-
----
-
-## 🧠 About Me
-
-* 🎓 **Education**: Master's in Cyber Security
-* 🌍 **Location**: Lahore, Pakistan
-* 💼 **Experience**: Over 5 years in software development, working on diverse projects ranging from web applications to AI-driven platforms.
-* 💬 **Languages**: Fluent in English and Urdu
-* 🎯 **Interests**: Web Development, Cyber Security, Open Source Contributions
+Experienced full‑stack developer building web applications, APIs, and cloud infrastructure. I focus on end‑to‑end delivery: design, backend, deployment, and observability. Open to backend / full‑stack roles and opportunities that involve cloud, performance, or security.
 
 ---
 
-## 🛠️ Skills & Technologies
+## TL;DR
 
-### 🚀 Tech Stack Coverage
-
-![Technologies Badge](https://skillicons.dev/icons?i=react,nextjs,nodejs,django,python,flask,tailwind,postgres,mongodb,aws,docker,kubernetes,graphql,redis,terraform,kafka,celery,)
-
-### 🖥️ Frontend Development
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge\&logo=vue.js\&logoColor=4FC08D)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge\&logo=bootstrap\&logoColor=white)
-
-### 🗄️ Backend Development
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge\&logo=laravel\&logoColor=white)
-
-### 🧠 AI & Machine Learning
-
-![oaicite:28](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
-![oaicite:29](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
-![oaicite:30](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
-![oaicite:31](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![oaicite:32](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
-![oaicite:33](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge\&logo=opencv\&logoColor=white)
-
-### ☁️ DevOps & Cloud
-
-![oaicite:37](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![oaicite:38](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes\&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazon-aws\&logoColor=white)
-![oaicite:39](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge\&logo=microsoft-azure\&logoColor=white)
-![oaicite:40](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge\&logo=google-cloud\&logoColor=white)
-![oaicite:41](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge\&logo=jenkins\&logoColor=white)
-![oaicite:42](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=github-actions\&logoColor=white)
-
-### 🛢️ Databases
-
-![oaicite:46](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![oaicite:47](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![oaicite:48](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![oaicite:49](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
+- Full‑stack engineer (Django/Python, Node.js, React) with CI/CD and cloud experience (AWS, Docker).
+- Master's in Cyber Security — strong security and reliability mindset.
+- Open to: Senior Backend, Full‑Stack, SRE/Platform roles — remote, available across most time zones.
 
 ---
 
-## 📈 GitHub Stats
+## What I Do
 
-
-![oaicite:54](https://github-readme-stats.vercel.app/api/top-langs/?username=SulemanMughal\&layout=compact\&theme=radical)
-
-![oaicite:55](https://streak-stats.demolab.com?user=SulemanMughal&theme=radical&hide_border=true)
-
-![oaicite:56](https://github-readme-activity-graph.vercel.app/graph?username=SulemanMughal&theme=github-compact)
-
-![oaicite:57](https://github-profile-trophy.vercel.app/?username=SulemanMughal&theme=onestar&no-bg=true&no-frame=true)
-
-
-
-### 📦 GitHub Metrics
-
-* 🧩 **40+ Repositories** covering AI, Web, Blockchain, and DevOps
-* 🌐 **Multi-language Expertise**: Python, JavaScript, Go, C, Bash
-* 🧰 **DevOps Ready**: CI/CD pipelines, containerization, monitoring
-* 📡 **API Development**: REST, GraphQL, Webhooks, and 3rd-Party APIs
-
+- Build reliable APIs and backend systems for scale and security.
+- Ship products end‑to‑end: prototyping, implementation, tests, CI/CD, deployment.
+- Improve performance, reliability, and automation across services and infra.
 
 ---
 
-## 📂 Featured Projects
+## Skills Snapshot
 
-### 🔹 [SecureFileSharing](https://github.com/SulemanMughal/SecureFileSharing)
+- Languages: `Python`, `JavaScript/TypeScript`, `Go`, `C`
+- Backend: `Django`, `Flask`, `Express`, REST/GraphQL
+- Frontend: `React`, `Next.js`, `Tailwind CSS`
+- Cloud & Infra: `AWS`, `Docker`, `Kubernetes`, `Terraform`
+- Data & ML: `Pandas`, `NumPy`, `PyTorch`, `scikit-learn`
+- DevOps: `GitHub Actions`, CI/CD, monitoring, containerization
 
-A secure platform for sharing files with end-to-end encryption, ensuring data privacy and integrity.
-
-### 🔹 [AI-Subchain](https://github.com/FalconXoft/AI-Subchain)
-
-Integrating AI with blockchain technology to create intelligent subchains for decentralized applications.
-
-### 🔹 [Child Stories](https://github.com/SulemanMughal/child-stories)
-
-An engaging web application providing children with a delightful collection of stories to foster imagination and learning.
-
-### 🔹 [Vaccination Monitoring System](https://github.com/SulemanMughal/vaccination_monitoring)
-
-A C-based command-line application designed to efficiently manage and monitor vaccination records using advanced data structures.
-
-### 🔹 [Trendyol Scrapper](https://github.com/SulemanMughal/trendyol-scrapper)
-
-A Go-based web scraping tool designed to extract product information from Trendyol, automating data collection for analysis.
+> See full tech badges and stats below.
 
 ---
 
-## 🌐 Let's Connect
 
-* 💼 [LinkedIn](https://www.linkedin.com/in/suleman-shahid/)
-* 🐦 [Twitter](https://twitter.com/sulemanmughal39)
-* 📧 Email: [sulemanmughal155@gmail.com](mailto:sulemanmughal155@gmail.com)
+## Featured Projects (pinned suggestions)
+
+### �� SecureFileSharing — secure file sharing platform
+- Repo: https://github.com/SulemanMughal/SecureFileSharing  
+- TL;DR: End‑to‑end encrypted file sharing with user auth and role permissions.  
+- What I built: backend APIs (Django), encryption flow, CI, and deployment scripts.  
+
+### 🔹 AI-Subchain — AI + blockchain experiment
+- Repo: https://github.com/FalconXoft/AI-Subchain  
+- TL;DR: Exploration of AI inference + blockchain workflows for decentralized apps.  
+
+### 🔹 Child Stories — web app for children's stories
+- Repo: https://github.com/SulemanMughal/child-stories  
+- TL;DR: Content site with CMS-like features and responsive UI.  
+
+### 🔹 Vaccination Monitoring System — CLI & data structures (C)
+- Repo: https://github.com/SulemanMughal/vaccination_monitoring  
+- TL;DR: Efficient record management CLI demonstrating algorithmic design.  
+
+### 🔹 Trendyol Scrapper — data collection tool (Go)
+- Repo: https://github.com/SulemanMughal/trendyol-scrapper  
+- TL;DR: Scraper and ETL pipeline to extract product data for analysis.
 
 ---
 
-## 🤝 Open for Collaboration
+## Repo Checklist (what I keep in showcased repos)
 
-I'm always eager to collaborate on exciting projects, especially those involving:
-
-* AI & Machine Learning
-* Full-Stack Web Development
-* DevOps & Cloud Infrastructure
-* Cyber Security Pentesting
-* Open Source Contributions
-
-Feel free to reach out if you have an opportunity or idea you'd like to discuss!
+- `README.md` with TL;DR, demo/GIF, and Quick Start (3 commands).  
+- `LICENSE` (usually MIT) and `CODE_OF_CONDUCT` / `CONTRIBUTING.md` for OSS.  
+- GitHub Actions for CI with a passing build badge.  
+- `Dockerfile` / `docker-compose.yml` or deploy instructions.  
+- Tests and a simple `npm test` / `pytest` command documented.
 
 ---
 
-*Thank you for visiting my profile! Let's build something amazing together.* 🚀
+## GitHub Stats & Badges
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SulemanMughal&layout=compact&theme=radical)
+![Activity](https://github-readme-activity-graph.vercel.app/graph?username=SulemanMughal&theme=github-compact)
+
+---
+
+## Contact & Resume
+
+- LinkedIn: https://www.linkedin.com/in/suleman-shahid/  
+- Twitter: https://twitter.com/sulemanmughal39  
+- Email: [sulemanmughal155@gmail.com](mailto:sulemanmughal155@gmail.com)  
 
 
+
+---  
+
+*Thanks for visiting — let me know which repos you'd like prioritized.* 🚀
